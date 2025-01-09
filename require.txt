@@ -1,0 +1,8 @@
+Pandas
+tensorflow
+numpy
+scikeras
+scikit-learn
+matplotlib
+streamlit
+nltk
